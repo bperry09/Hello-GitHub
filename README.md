@@ -1,5 +1,4 @@
-# hello-world
-Initial repo testing
+# About Me
 
 Hi all!
 
